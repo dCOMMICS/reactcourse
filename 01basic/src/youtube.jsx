@@ -11,3 +11,16 @@ function App() {
 }
 
 export default App;
+
+// code written by me //
+
+import youtube from "./youtube";
+function App () {
+    return (
+        <>
+        <h1>Stupid</h1>
+        <youtube />
+        </>
+    );
+}
+export default App;
